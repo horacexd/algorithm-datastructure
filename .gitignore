@@ -1,1 +1,4 @@
 **/*.exe
+test.c
+test.cpp
+**/*.txt

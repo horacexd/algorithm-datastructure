@@ -2,7 +2,9 @@
     "java.checkstyle.configuration": "${workspaceFolder}\\google_checks.xml",
     "files.associations": {
         "xstring": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "unordered_map": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
