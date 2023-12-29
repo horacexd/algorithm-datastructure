@@ -2,3 +2,5 @@
 test.c
 test.cpp
 **/*.txt
+**/*.out
+.vscode
